@@ -3988,7 +3988,7 @@ input[type="button"].btn-block {
   .breadcrumb-item + .breadcrumb-item::before {
     display: inline-block;
     padding-right: 0.5rem;
-    color: #F23D91;
+    color: #6c757d;
     content: "/"; }
 
 .breadcrumb-item + .breadcrumb-item:hover::before {
@@ -8402,7 +8402,7 @@ h1, h2, h3, h4, h5,
     content: '';
     opacity: .1;
     width: 50%;
-    background: #111111; }
+    background: #3e64ff; }
   .hero-wrap .text {
     width: 100%; }
 
